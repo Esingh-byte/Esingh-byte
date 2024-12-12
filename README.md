@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Etti Singh</h1>
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2Fw3APLkMuTX0AAAAM%2Fcomputer-work.gif&tbnid=tsOnefSNYqyGmM&vet=1&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-girl-computer-gifs&docid=Xi5VNzIvN80P-M&w=220&h=220&hl=en-US&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=d01bcaef86d230dd)
 <h3 align="center">A passionate Programmer from India</h3>
 
 - 🌱 I’m currently learning **AI/ML,Python and Exploring Hardware**
