@@ -1,6 +1,6 @@
 ![MasterHead](Loading.gif)
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Times%20New%20Georgia&pause=1000&color=FF1493&center=true&random=false&width=435&lines=Hi%2C+I+am+Etti+Singh"alt="Typing SVG">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Times%20New%20Pacifico&pause=1000&color=FF1493&center=true&random=false&width=435&lines=Hi%2C+I+am+Etti+Singh"alt="Typing SVG">
 </a></h1>
                                         
 
