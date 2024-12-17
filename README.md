@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Esingh-byte/blob/main/download.gif)
 <h1 align="center">Hi 👋, I'm Etti Singh</h1>
 
 <h3 align="center">A passionate Programmer from India</h3>
