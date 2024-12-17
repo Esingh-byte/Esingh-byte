@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Arduino UNO,ESP and C**
 
-- 📫 How to reach me **ettisingh1729@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
