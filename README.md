@@ -20,3 +20,17 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esingh-byte&show_icons=true&locale=en&layout=compact" alt="esingh-byte" /></p>
+
+<h2>Contact Me</h2> <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/handshakes.gif" height=40px width=40px/>
+
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/li.gif" height=70px width=70px>](https://www.linkedin.com/in/etti-singh-3251a732a/)
+&nbsp;
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/ig.gif" height=70px width=70px style="background-color:white;"/>](https://www.instagram.com/ettisingh/)
+&nbsp;
+&nbsp;
+[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/gmail.gif" height=70px width=70px style="background-color:white;"/>](mailto:ettisingh1729@gmail.com)
+&nbsp;
+<hr>
+<p align="center">
+Developed with ❤️ in India 🇮🇳 
+</p>
