@@ -1,4 +1,4 @@
-![MasterHead](Loading_with_bgc(1).png)
+![MasterHead](Loading.gif)
 <h1 align="center">Hi 👋, I'm Etti Singh</h1>
 
 <h3 align="center">A passionate Programmer from India</h3>
