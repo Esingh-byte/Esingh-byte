@@ -1,34 +1,70 @@
-![MasterHead](Loading.gif)
+![MasterHead](https://raw.githubusercontent.com/gist/Esingh-byte/your_banner_image_here.png)
+
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Times%20New%20Pacifico&pause=1000&color=FF1493&center=true&random=false&width=435&lines=Hi%2C+I+am+Etti+Singh"alt="Typing SVG">
-</a></h1>
-                                        
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=F7A400&center=true&random=false&width=600&lines=Hi%2C+I'm+Etti+Singh!;Passionate+Developer+%7C+AI+Enthusiast+%7C+Hardware+Explorer" alt="Typing SVG" />
+  </a>
+</h1>
 
-<h3 align="center">A passionate Programmer from India</h3>
 
-- 🌱 I’m currently learning **AI/ML,Python and Exploring Hardware**
+---
 
-- 💬 Ask me about **Arduino UNO,ESP and C**
+<h3 align="center">🚀 Passionate about AI, Hardware & Full-Stack Development!</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 👩‍💻 About Me:
+- 🌱 Currently learning **AI/ML, Python, and Hardware (Arduino UNO & ESP)**
+- 💬 Ask me about **C, Python, Arduino, and ESP**
+- 🎯 2025 Goal: **Win a Hackathon!** 🏆
+- 📫 Reach me at **your.email@example.com**
+- ⚡ Fun fact: **I love working on innovative projects that blend software & hardware!**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esingh-byte&show_icons=true&locale=en&layout=compact" alt="esingh-byte" /></p>
+## 🖥️ Technical Skills:
 
-<h2>Contact Me</h2> <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/handshakes.gif" height=40px width=40px/>
-
-[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/li.gif" height=70px width=70px>](https://www.linkedin.com/in/etti-singh-3251a732a/)
-&nbsp;
-[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/ig.gif" height=70px width=70px style="background-color:white;"/>](https://www.instagram.com/ettisingh/)
-&nbsp;
-&nbsp;
-[<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/gmail.gif" height=70px width=70px style="background-color:white;"/>](mailto:ettisingh1729@gmail.com)
-&nbsp;
-<hr>
 <p align="center">
-Developed with ❤️ in India 🇮🇳 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
 </p>
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Esingh-byte&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esingh-byte&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esingh-byte&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Esingh-byte&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🌍 Connect with Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/etti-singh-3251a732a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/ettisingh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:ettisingh1729@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+### ⚡ Fun Fact:
+*I love experimenting with AI-powered hardware projects!* 🤖💡
+
+---
