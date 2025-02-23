@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/gist/Esingh-byte/your_banner_image_here.png)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](image_head)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
