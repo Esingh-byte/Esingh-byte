@@ -17,7 +17,7 @@
 ### 👩‍💻 About Me:
 - 🌱 Currently learning **AI/ML, Python, and Hardware (Arduino UNO & ESP)**
 - 💬 Ask me about **C, Python, Arduino, and ESP**
-- 🎯 2025 Goal: **Win a Hackathon!** 🏆
+- 🎯 2025 Goal: **participate in a Hackathon!** 🏆
 - ⚡ Fun fact: **I love working on innovative projects that blend software & hardware!**
 
 ---
