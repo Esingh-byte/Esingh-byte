@@ -8,8 +8,7 @@
  <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=FF69B4&centre=true&random=false&width=800&lines=    Passionate+Developer+|+AI+Enthusiast+|+Hardware+Explorer" alt="Typing SVG" />
   </a>
 </h1>
-
-
+ 
 ---
 
 <h3 align="center">🚀 Passionate about AI, Hardware & Full-Stack Development!</h3>
