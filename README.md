@@ -1,6 +1,6 @@
 <p align="center">
   <img src="Github1.gif" alt="GIF" width="500"/>
-</p>  
+</p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
