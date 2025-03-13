@@ -2,7 +2,7 @@
   <img src="Github1.gif" alt="GIF" width="500"/>   
 </p>   
    
-
+ 
 <h1 align="center">
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=FF69B4&center=true&random=false&width=500&lines=Hi%2C+I'm+Etti+Singh!" alt="Typing SVG" />
