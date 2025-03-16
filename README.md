@@ -1,4 +1,4 @@
-<p align="center">  
+<p align="center">   
   <img src="Github1.gif" alt="GIF" width="500"/>   
 </p>  
     
