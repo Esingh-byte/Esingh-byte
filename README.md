@@ -12,7 +12,7 @@
   
 ---
  
-<h3 align="center">🚀 Passionate about AI, Hardware & Full-Stack Development!</h3>
+<h3 align="center">🚀 Passionate about AI, Hardware!</h3>
 
 ### 👩‍💻 About Me:
 - 🌱 Currently learning **AI/ML, Python, and Hardware (Arduino UNO & ESP)**
