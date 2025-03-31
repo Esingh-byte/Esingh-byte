@@ -11,7 +11,7 @@
 </h1>    
   
 ---
- 
+  
 <h3 align="center">🚀 Passionate about AI, Hardware!</h3>
 
 ### 👩‍💻 About Me:
