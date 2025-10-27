@@ -1,14 +1,13 @@
- <p align="center">      
-  <img src="Github1.gif" alt="GIF" width="800"/>               
-</p>                      
-                           
-             
 <h1 align="center">                 
   <a href="https://git.io/typing-svg">    
     <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=FF69B4&center=true&random=false&width=500&lines=Hi%2C+I'm+Etti+Singh!" alt="Typing SVG" />
- <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=FF69B4&centre=true&random=false&width=800&lines=    Passionate+Developer+|+AI+Enthusiast+|+Hardware+Explorer" alt="Typing SVG" /> 
+  </a>
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=FF69B4&center=true&random=false&width=800&lines=Passionate+Developer+|+AI+Enthusiast+|+Hardware+Explorer" alt="Typing SVG" /> 
   </a>  
-</h1>    
+</h1>
+
   
 ---
   
