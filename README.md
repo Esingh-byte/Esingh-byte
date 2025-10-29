@@ -18,7 +18,6 @@
 ### 👩‍💻 About Me:
 - 🌱 Currently learning **AI/ML, Python, and Hardware (Arduino UNO & ESP)**
 - 💬 Ask me about **C, Python, Arduino, and ESP**
-- 🎯 2025 Goal: **participate in a Hackathon!** 
 - ⚡ Fun fact: **I love working on innovative projects that blend software & hardware!**
 
 ---
@@ -58,15 +57,19 @@
   <a href="https://www.linkedin.com/in/etti-singh-3251a732a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
   <a href="https://instagram.com/ettisingh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  
   <a href="mailto:ettisingh1729@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-### ⚡ Fun Fact:
+<!-- ### ⚡ Fun Fact:
 *I love experimenting with AI-powered hardware projects!* 🤖💡
 
----
+--- -->
+
+
