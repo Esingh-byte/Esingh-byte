@@ -1,26 +1,23 @@
-<p align="center"> <img src="Github1.gif" alt="GIF" width="500"/> </p>
+<p align="centre">
+  <img src="./image%20github.png"
+       alt="My GitHub Banner"
+       width="1500" />
+</p>
 
-<h1 align="center">                 
-  <a href="https://git.io/typing-svg">    
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=FF69B4&center=true&random=false&width=500&lines=Hi%2C+I'm+Etti+Singh!" alt="Typing SVG" />
-  </a>
-  <br>
-  <a href="https://git.io/typing-svg">
+<br>
+ <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=FF69B4&center=true&random=false&width=800&lines=Passionate+Developer+|+AI+Enthusiast+|+Hardware+Explorer" alt="Typing SVG" /> 
   </a>  
 </h1>
 
-  
----
-  
-<h3 align="center">🚀 Passionate about AI, Hardware!</h3>
+<h3 align="center">🚀 Passionate about AI, Hardware!</h3> -->
 
 ### 👩‍💻 About Me:
 - 🌱 Currently learning **AI/ML, Python, and Hardware (Arduino UNO & ESP)**
 - 💬 Ask me about **C, Python, Arduino, and ESP**
 - ⚡ Fun fact: **I love working on innovative projects that blend software & hardware!**
 
----
+--
 
 ## 🖥️ Technical Skills:
 
