@@ -1,10 +1,10 @@
-<p align="centre">
+<!-- <p align="centre">
   <img src="./image%20github.png"
        alt="My GitHub Banner"
        width="1500" />
 </p>
 
-<br>
+<br> -->
  <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=FF69B4&center=true&random=false&width=800&lines=Passionate+Developer+|+AI+Enthusiast+|+Hardware+Explorer" alt="Typing SVG" /> 
   </a>  
